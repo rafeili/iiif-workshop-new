@@ -41,7 +41,7 @@ Recent versions of Firefox include a JSON viewer by default. Or you can use [JSO
 
 ### Developer Tools
 
-With either browser you may also need at times to open the [developer tools](https://developer.mozilla.org/en-US/docs/Tools). On Windows and Linux this is `Ctrl + Shift + I`. On Mac use `Ctrl + Opt + I`.
+With either browser you may also need at times to open the [developer tools](https://developer.mozilla.org/en-US/docs/Tools). On Windows and Linux this is `Ctrl + Shift + I`. On Mac use `Cmd + Opt + I`.
 
 ## Clearing the Browser Cache
 
